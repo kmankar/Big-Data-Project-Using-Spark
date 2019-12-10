@@ -1,0 +1,10 @@
+{
+	"fileLocations": [{
+		"URIs": [
+			"https://bigdata-cdc.s3.amazonaws.com/aaaa.csv"
+		]
+	}],
+	"globalUploadSettings": {
+		"textqualifier": "\""
+	}
+}
