@@ -32,7 +32,7 @@ Predict whether a person would earn more than 50k annually based on socio- econo
 ## Result & Model Summaries
 
 | Model | Accuracy | 
-|---|---|---|---|---|---|
+|---|---|
 | Logistic Regression | 87.49% |
 | Randome Forest | 85.54% | 
 | Support Vector Machine  |86.39%| 
